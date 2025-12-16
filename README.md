@@ -28,26 +28,31 @@ Ziel des Projekts war es, den bisherigen papierbasierten bzw. manuellen Prozess 
 
 ## 🖥️ Screenshots
 
-### ✅ Erfolgreiche Anmeldung
-<a href="screenshots/member-approved.png">
-  <img src="thumbnails/member-approved.png" width="200">
-</a>
-
-
-
-### 🖥️ Mitgliederformular – Desktop
-<a href="screenshots/mitglied-desktop.png">
-  <img src="thumbnails/mitglied-desktop.png" width="200">
-</a>
-
-
-
-### 📱 Mitgliederformular – Mobil
-<a href="screenshots/mitglied-mobil.png">
-  <img src="thumbnails/mitglied-mobil.png" width="100">
-</a>
-
-
+<table> 
+  <tr> 
+    <td align="center"> 
+      <a href="screenshots/member-approved.png"> 
+        <img src="thumbnails/member-approved.png" alt="member-approved" width="200" /> 
+      </a>
+      <br /> 
+      <strong>member-approved</strong> 
+    </td> 
+     <td align="center"> 
+      <a href="screenshots/mitglied-desktop.png"> 
+        <img src="thumbnails/mitglied-desktop.png" alt="mitglied-desktop" width="200" /> 
+      </a>
+      <br /> 
+      <strong>mitglied-desktop</strong> 
+    </td> 
+     <td align="center"> 
+      <a href="screenshots/mitglied-mobil.png"> 
+        <img src="thumbnails/mitglied-mobil.png" alt="mitglied-mobil.png" width="200" /> 
+      </a>
+      <br /> 
+      <strong>mitglied-mobil.png</strong> 
+    </td> 
+  </tr>
+</table>
 
 ## ⚙️ Funktionen
 
