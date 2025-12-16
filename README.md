@@ -71,7 +71,7 @@ Ziel des Projekts war es, den bisherigen papierbasierten bzw. manuellen Prozess 
 
 ## 📂 Projektinhalt
 
-´´´plaintext
+```plaintext
 ├── screenshots/
 │ ├── member-approved.png
 │ ├── mitglied-desktop.png
@@ -84,6 +84,6 @@ Ziel des Projekts war es, den bisherigen papierbasierten bzw. manuellen Prozess 
 │
 ├── LukasTrapp_FIA_Dokumentation.pdf
 └── README.md
-´´´
+```
 
 
