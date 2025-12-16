@@ -33,21 +33,21 @@ Ziel des Projekts war es, den bisherigen papierbasierten bzw. manuellen Prozess 
   <img src="thumbnails/member-approved.png" width="200">
 </a>
 
----
+
 
 ### 🖥️ Mitgliederformular – Desktop
 <a href="screenshots/mitglied-desktop.png">
   <img src="thumbnails/mitglied-desktop.png" width="200">
 </a>
 
----
+
 
 ### 📱 Mitgliederformular – Mobil
 <a href="screenshots/mitglied-mobil.png">
   <img src="thumbnails/mitglied-mobil.png" width="100">
 </a>
 
----
+
 
 ## ⚙️ Funktionen
 
@@ -77,6 +77,13 @@ Ziel des Projekts war es, den bisherigen papierbasierten bzw. manuellen Prozess 
 │ ├── mitglied-desktop.png
 │ └── mitglied-mobil.png
 │
+├── thumbnails/
+│ ├── member-approved.png
+│ ├── mitglied-desktop.png
+│ └── mitglied-mobil.png
+│
 ├── LukasTrapp_FIA_Dokumentation.pdf
 └── README.md
 ´´´
+
+
