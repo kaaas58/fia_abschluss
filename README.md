@@ -44,7 +44,7 @@ Ziel des Projekts war es, den bisherigen papierbasierten bzw. manuellen Prozess 
 
 ### 📱 Mitgliederformular – Mobil
 <a href="screenshots/mitglied-mobil.png">
-  <img src="thumbnails/mitglied-mobil.png" width="200">
+  <img src="thumbnails/mitglied-mobil.png" width="100">
 </a>
 
 ---
