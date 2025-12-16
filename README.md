@@ -30,13 +30,6 @@ Ziel des Projekts war es, den bisherigen papierbasierten bzw. manuellen Prozess 
 
 <table> 
   <tr> 
-    <td align="center"> 
-      <a href="screenshots/member-approved.png"> 
-        <img src="thumbnails/member-approved.png" alt="member-approved" width="200" /> 
-      </a>
-      <br /> 
-      <strong>member-approved</strong> 
-    </td> 
      <td align="center"> 
       <a href="screenshots/mitglied-desktop.png"> 
         <img src="thumbnails/mitglied-desktop.png" alt="mitglied-desktop" width="200" /> 
@@ -50,6 +43,13 @@ Ziel des Projekts war es, den bisherigen papierbasierten bzw. manuellen Prozess 
       </a>
       <br /> 
       <strong>mitglied-mobil.png</strong> 
+    </td> 
+    <td align="center"> 
+      <a href="screenshots/member-approved.png"> 
+        <img src="thumbnails/member-approved.png" alt="member-approved" width="200" /> 
+      </a>
+      <br /> 
+      <strong>member-approved</strong> 
     </td> 
   </tr>
 </table>
